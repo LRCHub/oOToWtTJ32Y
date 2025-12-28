@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Not the End",
+  "base_artist": "安田 レイ",
+  "createdAt": "2025-12-28T14:12:13.655859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Not the End of the World",
+      "artist": "Le Sport",
+      "has_synced": true,
+      "path": "select/01_It's_Not_the_End_of_the_World_Le_Sport.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girl, It's Not The End Of The World",
+      "artist": "Ivana Spagna",
+      "has_synced": false,
+      "path": "select/02_Girl,_It's_Not_The_End_Of_The_World_Ivana_Spagna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not The End",
+      "artist": "Natalie Walker",
+      "has_synced": true,
+      "path": "select/03_Not_The_End_Natalie_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Death Is Not the End",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/04_Death_Is_Not_the_End_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death Is Not the End",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/05_Death_Is_Not_the_End_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Death Is Not The End - The Remnants of War - - feat. Frank Schiphorst, Bjorn \"Speed\" Strid",
+      "artist": "Epica feat. Frank Schiphorst & Bjorn \"Speed\" Strid",
+      "has_synced": true,
+      "path": "select/06_Death_Is_Not_The_End_-_The_Remnants_of_War_-_-_feat._Frank_Schiphorst,_Bjorn__Sp_Epica_feat._Frank_Schiphorst_&_Bjorn__Speed__Strid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Death Is Not the End",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/07_Death_Is_Not_the_End_Epica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Not the End",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/08_It's_Not_the_End_Alexia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Not the End of the World?",
+      "artist": "Super Furry Animals",
+      "has_synced": true,
+      "path": "select/09_It's_Not_the_End_of_the_World_Super_Furry_Animals.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is Not the End of the World",
+      "artist": "The Fratellis",
+      "has_synced": true,
+      "path": "select/10_This_Is_Not_the_End_of_the_World_The_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NOT the END",
+      "artist": "BiS",
+      "has_synced": true,
+      "path": "select/11_NOT_the_END_BiS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NOT the END",
+      "artist": "BiS (Japan)",
+      "has_synced": true,
+      "path": "select/12_NOT_the_END_BiS_(Japan).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She's Not the End of the World",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/13_She's_Not_the_End_of_the_World_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This is Not the End",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/14_This_is_Not_the_End_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Death Is Not the End",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/15_Death_Is_Not_the_End_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Not the End of the World",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/16_Not_the_End_of_the_World_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Not the End of the World",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/17_Not_the_End_of_the_World_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Death Is Not the End (featuring Frank Schiphorst & Björn \"Speed\" Strid)",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/18_Death_Is_Not_the_End_(featuring_Frank_Schiphorst_&_Björn__Speed__Strid)_Epica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not the End",
+      "artist": "安田レイ",
+      "has_synced": false,
+      "path": "select/pl_01_Not_the_End_安田レイ.txt"
+    }
+  ]
+}
